@@ -1,6 +1,6 @@
 {
-  "homepage": "https://prihodkonick.github.io/counter-react/",
   "name": "counter",
+  "homepage": "http://PrihodkoNick.github.io/counter-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
